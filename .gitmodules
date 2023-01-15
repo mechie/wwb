@@ -1,4 +1,4 @@
 [submodule "themes/hermit"]
 	path = themes/hermit
 	url = https://github.com/mechie/zola-hermit.git
-	branch = master
+	branch = wwb-changes
