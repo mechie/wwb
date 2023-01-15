@@ -40,6 +40,10 @@ hermit_social = [
     { name = "patreon", link = "https://www.patreon.com/wwb" }
 ]
 
+[extra.background_image]
+enable = true
+path = "images/background.webp"
+
 [extra.highlightjs]
 enable = false
 
