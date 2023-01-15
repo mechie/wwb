@@ -45,7 +45,7 @@ enable = true
 path = "images/background.webp"
 
 [extra.highlightjs]
-enable = false
+enable = true
 
 [extra.disqus]
 enable = false
