@@ -44,6 +44,10 @@ hermit_social = [
 enable = true
 path = "images/background.webp"
 
+[extra.title_image]
+enable = true
+path = "images/icon-wood.webp"
+
 [extra.highlightjs]
 enable = true
 
